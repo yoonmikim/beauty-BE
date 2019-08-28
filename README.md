@@ -1,6 +1,6 @@
 # beauty-BE
 ![](https://j.gifs.com/r8MpnE.gif)
-Deployed on Heroku [](https://b-be.herokuapp.com/api/v1/products) 
+Deployed on Heroku (https://b-be.herokuapp.com/api/v1/products) 
 
 A Makeup App where user can sign up, log in, log out, go to homepage with categories with images, emojis, and gifs, go to profile page, view products, filter/sort/search products based on user inputs. If user likes certain products, user can add to cart and/or go to product pages to purchase.
 
